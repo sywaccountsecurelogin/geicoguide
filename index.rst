@@ -4,7 +4,21 @@ How to Get a GEICO Insurance Quote Online?
 
 .. raw:: html
 
-    <a class="geico-button" href="https://www.geico.com/" target="_blank">Get Instant Quote Now</a>
+   <!-- Primary CTA Button -->
+   <div style="margin: 18px 0;">
+     <a href="https://link72.com/?CqqyiIcugtWk9T2kuV5NOWeefDIYBbQ7Tnt0vfbuKlP0esVSt40umO5cWmFZFiUSWK"
+        style="
+        background-color:#0054A6;
+        color:#ffffff;
+        padding:14px 28px;
+        text-decoration:none;
+        font-size:16px;
+        font-weight:bold;
+        border-radius:6px;
+        display:inline-block;">
+        Continue To Get Geico Instant Quote
+     </a>
+   </div>
 
 1. Go to GEICO.com.
 
