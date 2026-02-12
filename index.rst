@@ -30,15 +30,19 @@ FAQs
 ====
 
 1. **Is getting a GEICO insurance quote online free?**  
+
    Yes, getting a GEICO quote online is completely free and does not require any commitment to purchase a policy.
 
-2. **How long does it take to get a GEICO quote online?**  
+2. **How long does it take to get a GEICO quote online?** 
+
    It usually takes about 10–15 minutes if you have your personal and vehicle information ready.
 
 3. **Does getting a quote affect my credit score?**  
+
    No, requesting a quote does not negatively impact your credit score.
 
 4. **Can I save my GEICO quote and buy later?**  
+
    Yes, you can save your quote and return later to review or purchase your policy.
 
 Disclaimer
