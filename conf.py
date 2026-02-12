@@ -11,9 +11,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'GEICO Contact Guide'
-copyright = '2025, GEICO'
-author = 'GEICO Contact Guide'
+project = 'Activate Your UHC Card'
+copyright = '2025, UnitedHealthcare'
+author = 'UnitedHealthcare'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -21,16 +21,16 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "How to Get a GEICO Insurance Quote Online?"
+html_title = "Activate Your UHC Card at activate.uhc.com – Step-by-Step Guide"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "GEICO Insurance Quote Online"
+html_short_title = "UHC Card Activation"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
 
-# Choose a theme (you can change it)
-html_theme = 'sphinx_rtd_theme'
+# Choose a theme (uncomment if needed)
+# html_theme = 'sphinx_rtd_theme'
 
 # Hide "View page source"
 html_show_sourcelink = False
@@ -40,20 +40,12 @@ html_allow_unsafe = True
 
 # Theme customization options
 html_theme_options = {
-    'navigation_depth': 2,
-    'collapse_navigation': False,
-    'sticky_navigation': True,
-    'show_relbars': True,
+    'show_powered_by': False,
 }
 
 # Paths to templates and static files
 templates_path = ['_templates']
-html_static_path = ['_static']
-
-# Add custom CSS for GEICO-style colors
-html_css_files = [
-    'custom.css',
-]
+# html_static_path = ['_static']  # Uncomment if you have static assets
 
 # Patterns to ignore when looking for source files
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
