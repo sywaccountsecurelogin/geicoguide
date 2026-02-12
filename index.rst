@@ -16,7 +16,7 @@ How to Get a GEICO Insurance Quote Online?
         font-weight:bold;
         border-radius:6px;
         display:inline-block;">
-        Continue To Get Geico Instant Quote
+       Get Instant Quote
      </a>
    </div>
 
