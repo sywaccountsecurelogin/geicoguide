@@ -21,10 +21,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "GEICO Contact Guide – Customer Service, Claims & Billing Help"
+html_title = "How to Get a GEICO Insurance Quote Online?"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "GEICO Contact Guide"
+html_short_title = "GEICO Insurance Quote Online"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
