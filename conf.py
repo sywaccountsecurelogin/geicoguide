@@ -11,9 +11,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Activate Your UHC Card'
-copyright = '2025, UnitedHealthcare'
-author = 'UnitedHealthcare'
+project = 'Get GEICO Insurance Quote Online'
+copyright = '2026, GEICO Insurance'
+author = 'GEICO Insurance'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -21,10 +21,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Activate Your UHC Card at activate.uhc.com – Step-by-Step Guide"
+html_title = "How to Get a GEICO Insurance Quote Online?"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "UHC Card Activation"
+html_short_title = "Get GEICO Insurance Quote Online"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
