@@ -1,46 +1,5 @@
-.. raw:: html
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #ffffff;
-            color: #0b3b6f;
-        }
-        .geico-button {
-            display: inline-block;
-            background-color: #0b3b6f;
-            color: #ffffff;
-            padding: 12px 22px;
-            border-radius: 6px;
-            text-decoration: none;
-            font-weight: bold;
-            margin-top: 10px;
-        }
-        .geico-button:hover {
-            background-color: #08305c;
-        }
-        .content {
-            max-width: 900px;
-            margin: auto;
-            padding: 20px;
-        }
-        .faq {
-            margin-top: 20px;
-        }
-        .faq h3 {
-            color: #0b3b6f;
-        }
-        .faq p {
-            color: #333333;
-        }
-        .disclaimer {
-            font-size: 14px;
-            color: #555555;
-            margin-top: 20px;
-        }
-    </style>
-
-How to Get a GEICO Insurance Quote Online
+How to Get a GEICO Insurance Quote Online?
 =========================================
 
 .. raw:: html
