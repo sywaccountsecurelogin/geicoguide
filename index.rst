@@ -6,25 +6,25 @@ How to Get a GEICO Insurance Quote Online?
 
     <a class="geico-button" href="https://www.geico.com/" target="_blank">Get Instant Quote</a>
 
-Go to GEICO.com.
+1. Go to GEICO.com.
 
-Click on “Start My Quote.”
+2. Click on “Start My Quote.”
 
-Enter your ZIP code.
+3. Enter your ZIP code.
 
-Fill in your personal details (name, date of birth).
+4. Fill in your personal details (name, date of birth).
 
-Provide your vehicle information (make, model, year).
+5. Provide your vehicle information (make, model, year).
 
-Share your driving history.
+6. Share your driving history.
 
-Choose your coverage preferences.
+7. Choose your coverage preferences.
 
-Review the instant quote generated.
+8. Review the instant quote generated.
 
-Adjust coverage levels if needed.
+9. Adjust coverage levels if needed.
 
-Save your quote or purchase your policy online.
+10. Save your quote or purchase your policy online.
 
 FAQs
 ====
