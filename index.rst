@@ -6,7 +6,7 @@ How to Get a GEICO Insurance Quote Online?
 
    <!-- Primary CTA Button -->
    <div style="margin: 18px 0;">
-     <a href="https://link72.com/?BJor28F04QUHNH3EvGMHyowriXBTf4c3MqPXLE3uIaNGCcPXITIohZW8NTL2sG"
+     <a href="https://url90.com/?BJor28F04QUHNH3EvGMHyowriXBTf4c3MqPXLE3uIaNGCcPXITIohZW8NTL2sG"
         style="
         background-color:#0054A6;
         color:#ffffff;
